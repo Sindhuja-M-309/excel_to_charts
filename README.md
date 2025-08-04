@@ -1,2 +1,3 @@
 **ExcelViz – UI-Driven React Project**
+
 ExcelViz is a modern, component-based web application built using React, Vite, TypeScript, Tailwind CSS. Designed with clean UI principles, it serves as a scalable front-end foundation for apps focused on user interactions, dashboard-style views, and responsive layouts. The project leverages modular architecture, reusable components, and developer-friendly tooling to accelerate development. Whether you're extending functionality or integrating it with APIs or a backend, ExcelViz is structured to adapt easily.
